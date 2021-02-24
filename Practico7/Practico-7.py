@@ -2,6 +2,7 @@ import cv2
 import numpy as np
 
 
+
 def clics(event, x, y, flags, param):
     global puntos, transformar, imagen1
 
