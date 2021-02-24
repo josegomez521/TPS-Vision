@@ -8,6 +8,7 @@ imagen3 = imagen1.copy()
 restaurar = imagen1.copy()
 
 
+
 ix, iy = -1, -1
 ix2, iy2 = -1, -1
 i = -1
